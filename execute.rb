@@ -19,3 +19,11 @@ class Executor
   end
 
 end
+
+  def print_spacer
+    puts "==============="
+  end
+
+  def print_hello
+    puts 'What to do?'
+  end
